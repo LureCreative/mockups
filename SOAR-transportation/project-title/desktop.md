@@ -4,6 +4,9 @@ layout: desktop
 showMobileLink: false
 mockups:
   -
-    image: "dekstop-1.jpg"
+    image: "desktop-home_v2.jpg"
     title: "Home Page"
+  -
+    image: "desktop-interior.jpg"
+    title: "Interior Page"
 ---
