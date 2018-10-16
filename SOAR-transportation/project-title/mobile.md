@@ -4,6 +4,9 @@ layout: mobile
 showMobileLink: false
 mockups:
   -
-    image: "mobile-1.jpg"
+    image: "mobile-home.jpg"
     title: "Home Page"
+  -
+    image: "mobile-home-menu.jpg"
+    title: "Mobile Menu"
 ---
