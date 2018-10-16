@@ -1,7 +1,6 @@
 ---
 title: "Mobile"
 layout: mobile
-showMobileLink: false
 mockups:
   -
     image: "mobile-home.jpg"
