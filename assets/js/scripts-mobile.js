@@ -2,11 +2,11 @@ $(document).ready(function() {
 
 	// Switch current mockup
 	function layout_preview(number){
-		var image = 'mobile-mockups/mockup' + (number) + '.jpg';
+		var image = '../mockups/' + (number);
 		var background = 'background-' + (number);
 		$('#image').attr('src', image);
 		$('html').attr('class', background);
-		$("#current-layout option[value="+ number +"]").attr("selected","selected");
+		$("#current-layout option[value='"+ number +"']").attr("selected","selected");
 	};
 
 	// Get layout number from hash tag in URL
