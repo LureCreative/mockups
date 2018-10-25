@@ -3,6 +3,6 @@ title: "Mobile"
 layout: mobile
 mockups:
   -
-    image: "mobile-1.jpg"
+    image: "financial-designs-home-mobile.jpg"
     title: "Home Page"
 ---
