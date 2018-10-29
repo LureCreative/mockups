@@ -1,4 +1,4 @@
 ---
-title: "Example Client"
+title: "Financial Designs"
 layout: client
 ---
