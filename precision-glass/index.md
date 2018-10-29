@@ -1,4 +1,4 @@
 ---
-title: "Example Client"
+title: "Precision Glass"
 layout: client
 ---
