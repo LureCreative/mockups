@@ -1,5 +1,5 @@
 ---
-title: "Example Project Title"
+title: "Sunflower Medical - Website Redesign"
 type: "project"
 showInitial: "desktop"
 ---
