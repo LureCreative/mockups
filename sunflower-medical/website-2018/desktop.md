@@ -1,8 +1,8 @@
 ---
 title: "Desktop"
 layout: desktop
-mockups:
 showMobileLink: false
+mockups:
   -
     image: "sunflower-home-desktop_v5.jpg"
     title: "Home Page"
