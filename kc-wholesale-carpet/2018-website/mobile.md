@@ -4,7 +4,7 @@ layout: mobile
 mockups:
   -
     image: "KCWC-mobile-home.jpg"
-    title: "Mobile, All Items"
+    title: "Mobile All Items"
   -
     image: "KCWC-mobile-homeB.jpg"
     title: "Alternate Optimized Mockup"
