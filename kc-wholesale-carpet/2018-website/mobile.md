@@ -7,7 +7,7 @@ mockups:
     title: "Mobile, All Items"
   -
     image: "KCWC-mobile-homeB.jpg"
-    title: "Alternate, Optimized Mockup"
+    title: "Alternate Optimized Mockup"
   -
     image: "KCWC-mobile-home-sticky-footer-menu.jpg"
     title: "Sticky Footer Menu"
