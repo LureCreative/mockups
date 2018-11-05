@@ -1,4 +1,4 @@
 ---
-title: "Example Client"
+title: "AIMS"
 layout: client
 ---
