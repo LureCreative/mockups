@@ -1,5 +1,5 @@
 ---
-title: "Example Project Title"
+title: "AIMS 2018 Website"
 type: "project"
 showInitial: "desktop"
 ---
