@@ -4,9 +4,9 @@ layout: desktop
 showMobileLink: false
 mockups:
   -
-    image: "AIMS-home-desktop_v2.jpg"
+    image: "AIMS-home-desktop_v3.jpg"
     title: "Home Page"
   -
-    image: "AIMS-home-desktop_v2-mm.jpg"
+    image: "AIMS-home-desktop_v3B.jpg"
     title: "Home Page - Mega Menu"
 ---
