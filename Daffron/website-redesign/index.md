@@ -1,5 +1,5 @@
 ---
-title: "Example Project Title"
+title: "Daffron Website Redesign"
 type: "project"
 showInitial: "desktop"
 ---
