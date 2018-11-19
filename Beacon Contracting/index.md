@@ -1,4 +1,4 @@
 ---
-title: "Example Client"
+title: "Beacon Contracting"
 layout: client
 ---
