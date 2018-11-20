@@ -4,6 +4,6 @@ layout: desktop
 showMobileLink: false
 mockups:
   -
-    image: "beacon-desktop-home_v1B.jpg"
+    image: "beacon-desktop-home_v1C.jpg"
     title: "Home Page"
 ---
