@@ -1,5 +1,5 @@
 ---
-title: "Example Project Title"
+title: "Pricing Page Wireframes"
 type: "project"
 showInitial: "desktop"
 ---
