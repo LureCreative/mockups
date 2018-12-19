@@ -6,7 +6,7 @@ mockups:
     image: "daffron-desktop-home_v4.jpg"
     title: "Home Page"
   -
-    image: "daffron-desktop-home_v4-mm.jpg"
+    image: "daffron-desktop-home_v5-mm.jpg"
     title: "Home Page - Mega Menu"
   -
     image: "daffron-desktop-interior.jpg"
