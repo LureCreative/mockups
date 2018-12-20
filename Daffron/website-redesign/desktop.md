@@ -9,6 +9,6 @@ mockups:
     image: "daffron-desktop-home_v5-mm.jpg"
     title: "Home Page - Mega Menu"
   -
-    image: "daffron-desktop-interior-v1C.jpg"
+    image: "daffron-desktop-interior_v1C.jpg"
     title: "Interior - CIS"
 ---
