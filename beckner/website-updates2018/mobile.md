@@ -3,6 +3,9 @@ title: "Mobile"
 layout: mobile
 mockups:
   -
-    image: "mobile-1.jpg"
+    image: "beckner-mobile.jpg"
     title: "Home Page"
+  -
+    image: "beckner-mobile-menu.jpg"
+    title: "Home Page - Expanded Menu"
 ---
