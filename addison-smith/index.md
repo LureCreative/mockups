@@ -1,4 +1,4 @@
 ---
-title: "Example Client"
+title: "Addison Smith"
 layout: client
 ---
