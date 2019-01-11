@@ -3,6 +3,6 @@ title: "Mobile"
 layout: mobile
 mockups:
   -
-    image: "rise-vision-pricing-mobile_v2.jpg"
+    image: "rise-vision-pricing-mobile_FINAL.jpg"
     title: "Pricing Page"
 ---
