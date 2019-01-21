@@ -1,11 +1,8 @@
 ---
-title: "Desktop"
+title: "Heritage - Homepage Updates"
 layout: desktop
 mockups:
   -
-    image: "dekstop-1.jpg"
+    image: "heritage-home-redesign2019.jpg"
     title: "Home Page"
-  -
-    image: "dekstop-2.jpg"
-    title: "Home Page 2"
 ---
