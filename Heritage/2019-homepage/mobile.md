@@ -3,6 +3,6 @@ title: "Mobile"
 layout: mobile
 mockups:
   -
-    image: "mobile-1.jpg"
+    image: "heritage-home-redesign2019-mobile.jpg"
     title: "Home Page"
 ---
