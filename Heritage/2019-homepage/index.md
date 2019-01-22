@@ -1,5 +1,5 @@
 ---
-title: "Heritage - Homepage Mobile 2019"
+title: "Heritage - Homepage 2019"
 type: "project"
 showInitial: "desktop"
 ---
