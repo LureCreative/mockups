@@ -1,4 +1,4 @@
 ---
-title: "Example Client"
+title: "Solid Ground Environmental"
 layout: client
 ---
