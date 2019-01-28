@@ -3,6 +3,6 @@ title: "Mobile"
 layout: mobile
 mockups:
   -
-    image: "mobile-1.jpg"
+    image: "beacon-mobile-home.jpg"
     title: "Home Page"
 ---
