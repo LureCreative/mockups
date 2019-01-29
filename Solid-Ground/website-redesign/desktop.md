@@ -4,6 +4,6 @@ layout: desktop
 showMobileLink: false
 mockups:
   -
-    image: "solid-ground-home-desktop.jpg"
+    image: "solid-ground-home-desktop_v1B.jpg"
     title: "Home Page"
 ---
