@@ -3,9 +3,6 @@ title: "Desktop"
 layout: desktop
 mockups:
   -
-    image: "dekstop-1.jpg"
-    title: "Home Page"
-  -
-    image: "dekstop-2.jpg"
-    title: "Home Page 2"
+    image: "rise-footer-update-desktop.jpg"
+    title: "Home Page - Footer Update"
 ---
