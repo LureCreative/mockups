@@ -3,6 +3,6 @@ title: "Mobile"
 layout: mobile
 mockups:
   -
-    image: "mobile-1.jpg"
-    title: "Home Page"
+    image: "rise-footer-update-mobile.jpg"
+    title: "Home Page - Footer Update"
 ---
