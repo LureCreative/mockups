@@ -3,6 +3,6 @@ title: "Desktop"
 layout: desktop
 mockups:
   -
-    image: "rise-footer-update-desktop.jpg"
-    title: "Home Page - Footer Update"
+    image: "rise-vision-pricing-desktop_FINAL.jpg"
+    title: "Pricing Page"
 ---
