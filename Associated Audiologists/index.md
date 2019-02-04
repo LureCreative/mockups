@@ -1,4 +1,4 @@
 ---
-title: "Example Client"
+title: "Associated Audiologists"
 layout: client
 ---
