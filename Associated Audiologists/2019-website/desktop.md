@@ -3,9 +3,12 @@ title: "Desktop"
 layout: desktop
 mockups:
   -
-    image: "dekstop-1.jpg"
-    title: "Home Page"
+    image: "AA-home-desktop_v1A.jpg"
+    title: "Home – Static Hero"
   -
-    image: "dekstop-2.jpg"
-    title: "Home Page 2"
+    image: "AA-home-desktop_v1Amm.jpg"
+    title: "Home – Static Hero with Expanded Mega Menu"
+  -
+    image: "AA-home-desktop_v1B.jpg"
+    title: "Home – Video Hero"
 ---
