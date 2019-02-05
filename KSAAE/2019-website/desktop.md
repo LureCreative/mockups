@@ -1,6 +1,7 @@
 ---
 title: "Desktop"
 layout: desktop
+showMobileLink: false
 mockups:
   -
     image: "ksaae-desktop-home.jpg"
