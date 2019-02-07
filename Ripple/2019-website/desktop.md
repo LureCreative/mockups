@@ -4,6 +4,6 @@ layout: desktop
 showMobileLink: false
 mockups:
   -
-    image: "ripple-home-desktop_v4.jpg"
+    image: "ripple-home-desktop_v5.jpg"
     title: "Home Page"
 ---
