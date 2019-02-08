@@ -4,6 +4,6 @@ layout: desktop
 showMobileLink: false
 mockups:
   -
-    image: "addison-smith-home-desktop.jpg"
+    image: "addison-smith-home-desktop_v3.jpg"
     title: "Home Page"
 ---
