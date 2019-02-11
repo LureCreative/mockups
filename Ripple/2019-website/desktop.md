@@ -1,9 +1,14 @@
 ---
 title: "Desktop"
 layout: desktop
-showMobileLink: false
 mockups:
   -
     image: "ripple-home-desktop_v5.jpg"
     title: "Home Page"
+  -
+    image: "ripple-interior-desktop_v1.jpg"
+    title: "Shop"
+  -
+    image: "ripple-product-desktop_v1.jpg"
+    title: "Product Page"
 ---
