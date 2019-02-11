@@ -11,4 +11,7 @@ mockups:
   -
     image: "ripple-product-desktop_v1.jpg"
     title: "Product Page"
+  -
+    image: "ripple-interior-generic-desktop_v1.jpg"
+    title: "Generic Page Page"
 ---
