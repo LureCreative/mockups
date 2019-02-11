@@ -7,5 +7,5 @@ mockups:
     title: "Home Page"
   -
     image: "ripple-home-mobile-expanded-menu.jpg"
-    title: "Home Page"
+    title: "Home Page – Expanded Menu"
 ---
