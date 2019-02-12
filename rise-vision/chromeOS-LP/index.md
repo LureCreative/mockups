@@ -1,5 +1,5 @@
 ---
-title: "Example Project Title"
+title: "Rise Vision: Chrome OS LP"
 type: "project"
 showInitial: "desktop"
 ---
