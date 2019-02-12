@@ -8,4 +8,8 @@ mockups:
   -
     image: "confirmation-desktop.jpg"
     title: "Confirmation"
+    
+  -
+    image: "unsubscribe-desktop.jpg"
+    title: "Unsubscribe"
 ---
