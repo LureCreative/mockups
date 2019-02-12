@@ -3,9 +3,9 @@ title: "Desktop"
 layout: desktop
 mockups:
   -
-    image: "dekstop-1.jpg"
-    title: "Home Page"
+    image: "subscribe-wireframe.jpg"
+    title: "Subscribe"
   -
-    image: "dekstop-2.jpg"
-    title: "Home Page 2"
+    image: "confirmation-desktop.jpg"
+    title: "Confirmation"
 ---
