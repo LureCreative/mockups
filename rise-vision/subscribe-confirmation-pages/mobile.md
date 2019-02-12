@@ -8,4 +8,7 @@ mockups:
   -
     image: "confirmation-mobile.jpg"
     title: "Confirmation – Mobile"
+  -
+    image: "unsubscribe-mobile.jpg"
+    title: "Unsubscribe – Mobile"
 ---
