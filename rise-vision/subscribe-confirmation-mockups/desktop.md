@@ -1,11 +1,11 @@
 ---
-title: "Desktop"
+title: "Rise Vision: Subscribe and Confirmation Pages"
 layout: desktop
 mockups:
   -
-    image: "dekstop-1.jpg"
-    title: "Home Page"
+    image: "Rise-subscribe-desktop.jpg"
+    title: "Subscribe Page"
   -
-    image: "dekstop-2.jpg"
-    title: "Home Page 2"
+    image: "Rise-confirmation-desktop.jpg"
+    title: "Confirmation Page"
 ---
