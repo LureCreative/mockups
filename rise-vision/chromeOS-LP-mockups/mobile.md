@@ -1,8 +1,11 @@
 ---
-title: "Mobile"
+title: "Chrome OS LP Mobile"
 layout: mobile
 mockups:
   -
-    image: "mobile-1.jpg"
-    title: "Home Page"
+    image: "Rise-chromeOS-mobile.jpg"
+    title: "Chrome OS LP"
+  -
+    image: "Rise-chromeOS-mobile-post-submit.jpg"
+    title: "Chrome OS LP – Post Submit"
 ---
