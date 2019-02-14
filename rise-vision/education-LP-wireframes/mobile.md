@@ -1,8 +1,11 @@
 ---
-title: "Mobile"
+title: "Rise Vision: Education LP - Mobile Wireframes"
 layout: mobile
 mockups:
   -
-    image: "mobile-1.jpg"
-    title: "Home Page"
+    image: "educationLP-wireframe-mobile-default.jpg"
+    title: "Education LP"
+  -
+    image: "educationLP-wireframe-mobile-post-submit.jpg"
+    title: "Education LP – Post Submit"
 ---
