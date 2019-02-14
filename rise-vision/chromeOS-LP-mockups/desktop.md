@@ -1,11 +1,11 @@
 ---
-title: "Desktop"
+title: "Rise Vision – Chrome OS LP Mockups"
 layout: desktop
 mockups:
   -
-    image: "dekstop-1.jpg"
-    title: "Home Page"
+    image: "Rise-chromeOS-desktop.jpg"
+    title: "Desktop"
   -
-    image: "dekstop-2.jpg"
-    title: "Home Page 2"
+    image: "Rise-chromeOS-desktop-post-submit.jpg"
+    title: "Desktop – Post Submit"
 ---
