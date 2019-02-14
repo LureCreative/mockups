@@ -1,11 +1,11 @@
 ---
-title: "Desktop"
+title: "Rise Vision: Education LP - Wireframes"
 layout: desktop
 mockups:
   -
-    image: "dekstop-1.jpg"
-    title: "Home Page"
+    image: "educationLP-wireframe-desktop-default.jpg"
+    title: "Education LP"
   -
-    image: "dekstop-2.jpg"
-    title: "Home Page 2"
+    image: "educationLP-wireframe-desktop-post-submit.jpg"
+    title: "Education LP – Post Submit"
 ---
