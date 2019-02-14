@@ -8,4 +8,7 @@ mockups:
   -
     image: "Rise-confirmation-desktop.jpg"
     title: "Confirmation Page"
+  -
+    image: "Rise-unsubscribe-desktop.jpg"
+    title: "Unsubscribe Page"
 ---
