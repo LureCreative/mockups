@@ -1,11 +1,11 @@
 ---
-title: "Desktop"
+title: "Rise Vision: Financial LP Wireframes"
 layout: desktop
 mockups:
   -
-    image: "dekstop-1.jpg"
-    title: "Home Page"
+    image: "financialLP-wireframe-desktop-default"
+    title: "Financial LP - Default"
   -
-    image: "dekstop-2.jpg"
-    title: "Home Page 2"
+    image: "financialLP-wireframe-desktop-post-submit.jpg"
+    title: "Financial LP - Post Submit"
 ---
