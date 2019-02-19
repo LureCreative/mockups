@@ -6,6 +6,6 @@ mockups:
     image: "desktop-home_v2.jpg"
     title: "Home Page"
   -
-    image: "desktop-interior.jpg"
+    image: "desktop-interior_v2.jpg"
     title: "Interior Page"
 ---
