@@ -7,5 +7,5 @@ mockups:
     title: "Home Page"
  -
     image: "solid-ground-home-mobile_expanded-nav.jpg"
-    title: "Home Page - Expanded Menu"
+    title: "Home Page: Expanded Menu"
 ---
