@@ -1,11 +1,11 @@
 ---
-title: "Desktop"
+title: "Rise Vision: Free Plan LP"
 layout: desktop
 mockups:
   -
-    image: "dekstop-1.jpg"
-    title: "Home Page"
+    image: "free-planLP-wireframe-desktop-default.jpg"
+    title: "Free Plan LP"
   -
-    image: "dekstop-2.jpg"
-    title: "Home Page 2"
+    image: "free-planLP-wireframe-desktop-post-submit.jpg"
+    title: "Free Plan LP - Post Submit"
 ---
