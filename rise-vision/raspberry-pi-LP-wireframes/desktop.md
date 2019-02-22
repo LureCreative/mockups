@@ -1,11 +1,11 @@
 ---
-title: "Desktop"
+title: "Rise Vision: Raspberry Pi Wireframes"
 layout: desktop
 mockups:
   -
-    image: "dekstop-1.jpg"
-    title: "Home Page"
+    image: "raspberry-pi-LP-wireframe-desktop-default.jpg"
+    title: "Raspberry Pi - Default"
   -
-    image: "dekstop-2.jpg"
-    title: "Home Page 2"
+    image: "raspberry-pi-LP-wireframe-desktop-post-submit.jpg"
+    title: "Raspberry Pi - Post Submit"
 ---
