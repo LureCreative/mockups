@@ -1,8 +1,14 @@
 ---
-title: "Mobile"
+title: "Addison Smith: Mobile"
 layout: mobile
 mockups:
   -
-    image: "mobile-1.jpg"
+    image: "addison-smith-home-mobile.jpg"
     title: "Home Page"
+  -
+    image: "addison-smith-home-mobile-menu.jpg"
+    title: "Home Page - Expanded Menu"
+  -
+    image: "addison-smith-home-mobile-expanded-form.jpg"
+    title: "Home Page - Expanded Form"
 ---
