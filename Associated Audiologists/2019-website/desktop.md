@@ -9,4 +9,7 @@ mockups:
   -
     image: "AA-home-desktop_v2mm.jpg"
     title: "Home – Expanded Mega Menu"
+  -
+    image: "AA-home-desktop_v2B.jpg"
+    title: "Home – Alternate Layout Order"
 ---
