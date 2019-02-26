@@ -3,9 +3,9 @@ title: "Desktop"
 layout: desktop
 mockups:
   -
-    image: "dekstop-1.jpg"
-    title: "Home Page"
+    image: "Rise-education-desktop_v1.jpg"
+    title: "Education LP"
   -
-    image: "dekstop-2.jpg"
-    title: "Home Page 2"
+    image: "Rise-education-desktop-post-submit_v1.jpg"
+    title: "Education LP - Post Submit"
 ---
