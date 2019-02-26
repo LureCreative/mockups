@@ -1,5 +1,5 @@
 ---
-title: "Desktop"
+title: "Rise Vision: Education LP"
 layout: desktop
 mockups:
   -
