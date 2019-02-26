@@ -1,7 +1,6 @@
 ---
 title: "Desktop"
 layout: desktop
-showMobileLink: false
 mockups:
   -
     image: "Rise-financial-desktop_v1.jpg"
