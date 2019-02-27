@@ -1,11 +1,8 @@
 ---
-title: "Desktop"
+title: "Certified Collision: Sample Landing Page"
 layout: desktop
 mockups:
   -
-    image: "dekstop-1.jpg"
-    title: "Home Page"
-  -
-    image: "dekstop-2.jpg"
-    title: "Home Page 2"
+    image: "cert-collision-lp-desktop_v1.jpg"
+    title: "Sample Landing Page"
 ---
