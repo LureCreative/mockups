@@ -1,11 +1,11 @@
 ---
-title: "Desktop"
+title: "Rise Vision: Raspberry Pi LP"
 layout: desktop
 mockups:
   -
-    image: "dekstop-1.jpg"
-    title: "Home Page"
+    image: "Rise-education-desktop_v1.jpg"
+    title: "Raspberry Pi"
   -
-    image: "dekstop-2.jpg"
-    title: "Home Page 2"
+    image: "Rise-education-desktop-post-submit_v1.jpg"
+    title: "Raspberry Pi - Post Submit"
 ---
