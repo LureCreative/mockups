@@ -10,6 +10,6 @@ mockups:
     image: "AA-home-desktop_v2mm.jpg"
     title: "Home – Expanded Mega Menu"
   -
-    image: "AA-home-desktop_v2B.jpg"
-    title: "Home – Alternate Layout Order"
+    image: "AA-interior-desktop_v1.jpg"
+    title: "Interior - Why Us?"
 ---
