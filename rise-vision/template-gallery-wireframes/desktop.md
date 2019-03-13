@@ -12,6 +12,6 @@ mockups:
     image: "template-details-wireframe_v1.jpg"
     title: "Template Details Page"
   -
-    image: "template-gallery-wireframe-mobile_v1-post-submit.jpg"
+    image: "template-details-wireframe_v1-post-submit.jpg"
     title: "Template Details Page - Post Submit"
 ---
