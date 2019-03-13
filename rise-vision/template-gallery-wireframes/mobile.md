@@ -3,7 +3,7 @@ title: "Rise Vision: Template Gallery Mobile Wireframes"
 layout: mobile
 mockups:
   -
-    image: "template-details-wireframe-mobile_v1.jpg"
+    image: "template-gallery-wireframe-mobile_v1.jpg"
     title: "Template Gallery Page"
   -
     image: "template-gallery-wireframe-mobile_v1-post-submit.jpg"
