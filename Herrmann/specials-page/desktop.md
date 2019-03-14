@@ -1,11 +1,12 @@
 ---
 title: "Desktop"
 layout: desktop
+showMobileLink: false
 mockups:
   -
-    image: "dekstop-1.jpg"
-    title: "Home Page"
+    image: "herrmann-specials-update.jpg"
+    title: "Specials Page"
   -
-    image: "dekstop-2.jpg"
-    title: "Home Page 2"
+    image: "herrmann-specials-update-form.jpg"
+    title: "Specials Page Form"
 ---
