@@ -1,11 +1,17 @@
 ---
-title: "Desktop"
+title: "Rise Vision: Template Gallery"
 layout: desktop
 mockups:
   -
-    image: "dekstop-1.jpg"
-    title: "Home Page"
+    image: "Rise-template-gallery-desktop_v1.jpg"
+    title: "Template Gallery"
   -
-    image: "dekstop-2.jpg"
-    title: "Home Page 2"
+    image: "Rise-template-gallery-desktop_v1-post-submit.jpg"
+    title: "Template Gallery - Post Submit"
+  -
+    image: "Rise-template-details-desktop_v1.jpg"
+    title: "Template Details"
+  -
+    image: "Rise-template-details-desktop_v1-post-submit.jpg"
+    title: "Template Details - Post Submit"
 ---
