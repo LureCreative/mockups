@@ -1,11 +1,8 @@
 ---
-title: "Desktop"
+title: "Gorilla Exteriors: 2019 Website Redesign"
 layout: desktop
 mockups:
   -
-    image: "dekstop-1.jpg"
+    image: "gorilla-home-desktop_v1.jpg"
     title: "Home Page"
-  -
-    image: "dekstop-2.jpg"
-    title: "Home Page 2"
 ---
