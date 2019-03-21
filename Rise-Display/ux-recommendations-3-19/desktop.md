@@ -1,11 +1,8 @@
 ---
-title: "Desktop"
+title: "Rise Display: UX Recommendations"
 layout: desktop
 mockups:
   -
-    image: "dekstop-1.jpg"
-    title: "Home Page"
-  -
-    image: "dekstop-2.jpg"
-    title: "Home Page 2"
+    image: "rise-display-home.jpg"
+    title: "Home Page - Single Step Form"
 ---
