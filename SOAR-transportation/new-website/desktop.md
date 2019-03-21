@@ -1,5 +1,5 @@
 ---
-title: "Desktop"
+title: "SOAR Transportation"
 layout: desktop
 mockups:
   -
@@ -8,4 +8,7 @@ mockups:
   -
     image: "desktop-interior_v3.jpg"
     title: "Interior Page"
+  -
+    image: "desktop-transflo_v1.jpg"
+    title: "Transflo Page"
 ---
