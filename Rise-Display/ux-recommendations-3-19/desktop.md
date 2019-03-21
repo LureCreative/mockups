@@ -1,6 +1,7 @@
 ---
 title: "Rise Display: UX Recommendations"
 layout: desktop
+showMobileLink: false
 mockups:
   -
     image: "rise-display-home.jpg"
