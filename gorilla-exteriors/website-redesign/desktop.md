@@ -4,6 +4,6 @@ layout: desktop
 showMobileLink: false
 mockups:
   -
-    image: "gorilla-home-desktop_v1.jpg"
+    image: "gorilla-home-desktop_v1b.jpg"
     title: "Home Page"
 ---
