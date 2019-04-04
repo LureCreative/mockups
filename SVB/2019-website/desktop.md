@@ -9,4 +9,7 @@ mockups:
   -
     image: "svb-desktop-home_v1B.jpg"
     title: "Home Page - Alternate"
+  -
+    image: "svb-desktop-home_v1C.jpg"
+    title: "Home Page - Alternate 2"
 ---
