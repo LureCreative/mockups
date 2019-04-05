@@ -6,6 +6,6 @@ mockups:
     image: "gorilla-home-desktop_v1b.jpg"
     title: "Home Page"
   -
-    image: "gorilla-home-desktop_v1b.jpg"
+    image: "gorilla-commercialroofing-desktop-v2.jpg"
     title: "Interior - Commercial Roofing Page"
 ---
