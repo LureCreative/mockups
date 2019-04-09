@@ -3,7 +3,7 @@ title: "Gorilla Exteriors: 2019 Website Redesign"
 layout: desktop
 mockups:
   -
-    image: "gorilla-home-desktop_v1b.jpg"
+    image: "gorilla-home-desktop_v1b-2.jpg"
     title: "Home Page"
   -
     image: "gorilla-commercialroofing-desktop-v2.jpg"
