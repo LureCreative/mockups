@@ -8,4 +8,7 @@ mockups:
   -
     image: "KCWC-home-desktop_v6B.jpg"
     title: "Home Page Option 2"
+  -
+    image: "KCWC-product-desktop.jpg"
+    title: "Product Page"
 ---
