@@ -4,12 +4,6 @@ layout: desktop
 showMobileLink: false
 mockups:
   -
-    image: "svb-desktop-home_v1.jpg"
+    image: "svb-desktop-home_v2.jpg"
     title: "Home Page"
-  -
-    image: "svb-desktop-home_v1B.jpg"
-    title: "Home Page - Alternate"
-  -
-    image: "svb-desktop-home_v1C.jpg"
-    title: "Home Page - Alternate 2"
 ---
