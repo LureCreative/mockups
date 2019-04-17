@@ -4,5 +4,7 @@ layout: mobile
 mockups:
   -
     image: "Wrought-Iron-Works-mobile-home.jpg"
-    title: "Home Page"
+    title: "Mobile - Home"
+    image: "Wrought-Iron-Works-mobile-home-menu.jpg"
+    title: "Mobile - Expanded Menu"
 ---
