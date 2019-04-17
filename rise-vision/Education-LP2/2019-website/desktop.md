@@ -4,6 +4,6 @@ layout: desktop
 showMobileLink: false
 mockups:
   -
-    image: "Rise-education-lp-desktop_v1.jpg"
+    image: "Rise-education-lp-desktop_v2.jpg"
     title: "Home Page"
 ---
