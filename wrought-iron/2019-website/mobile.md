@@ -5,6 +5,4 @@ mockups:
   -
     image: "Wrought-Iron-Works-mobile-home.jpg"
     title: "Mobile - Home"
-    image: "Wrought-Iron-Works-mobile-home-menu.jpg"
-    title: "Mobile - Expanded Menu"
 ---
