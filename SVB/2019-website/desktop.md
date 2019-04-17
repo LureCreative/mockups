@@ -4,6 +4,6 @@ layout: desktop
 showMobileLink: false
 mockups:
   -
-    image: "svb-desktop-home_v2.jpg"
+    image: "svb-desktop-home_v2B.jpg"
     title: "Home Page"
 ---
