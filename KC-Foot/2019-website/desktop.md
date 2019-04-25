@@ -4,6 +4,6 @@ layout: desktop
 showMobileLink: false
 mockups:
   -
-    image: "KC-foot-desktop-home_v2B.jpg"
+    image: "KC-foot-desktop-home_v3.jpg"
     title: "Home Page"
 ---
