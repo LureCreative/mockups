@@ -7,5 +7,5 @@ mockups:
     title: "Home Page"
   -
     image: "svb-desktop-interior.jpg"
-    title: "Interior - Wood Staircases"
+    title: "Interior - Hardwood Staircases"
 ---
