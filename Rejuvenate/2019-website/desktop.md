@@ -1,7 +1,7 @@
 ---
 title: "Rejuvenate: 2019 Website Redesign"
 layout: desktop
-displaymobilelink: false
+mobilelink: false
 mockups:
   -
     image: "Rejuvenate-home-desktop_v1B.jpg"
