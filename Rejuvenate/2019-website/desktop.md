@@ -6,4 +6,7 @@ mockups:
   -
     image: "Rejuvenate-home-desktop_v1B.jpg"
     title: "Home Page"
+  -
+    image: "Rejuvenate-home-desktop_v1B-mm.jpg"
+    title: "Home Page - Mega Menu"
 ---
