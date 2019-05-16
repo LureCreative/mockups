@@ -4,9 +4,9 @@ layout: desktop
 showMobileLink: false
 mockups:
   -
-    image: "Rejuvenate-home-desktop_v1B.jpg"
+    image: "Rejuvenate-home-desktop_v2.jpg"
     title: "Home Page"
   -
-    image: "Rejuvenate-home-desktop_v1B-mm.jpg"
+    image: "Rejuvenate-home-desktop_v2-mm.jpg"
     title: "Home Page - Mega Menu"
 ---
