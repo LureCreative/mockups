@@ -4,9 +4,15 @@ layout: desktop
 showMobileLink: false
 mockups:
   -
-    image: "Rejuvenate-home-desktop_v2.jpg"
+    image: "Rejuvenate-home-desktop_v3.jpg"
     title: "Home Page"
   -
-    image: "Rejuvenate-home-desktop_v2-mm.jpg"
+    image: "Rejuvenate-home-desktop_v3-mm.jpg"
     title: "Home Page - Mega Menu"
+  -
+    image: "Rejuvenate-home-desktop_v3-payment.jpg"
+    title: "Home Page - Payment Dropdown"
+  -
+    image: "Rejuvenate-interior-desktop_v1.jpg"
+    title: "Home Page - Interior (Neck Pain Page)"
 ---
