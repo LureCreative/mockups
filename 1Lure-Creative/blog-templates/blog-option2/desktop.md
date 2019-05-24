@@ -1,11 +1,11 @@
 ---
-title: "Desktop"
+title: "Blog Template 2"
 layout: desktop
 mockups:
   -
-    image: "dekstop-1.jpg"
-    title: "Home Page"
+    image: "Blog-template-2-main-page.jpg"
+    title: "Main Blog Page"
   -
-    image: "dekstop-2.jpg"
-    title: "Home Page 2"
+    image: "Blog-template-2-post-page.jpg"
+    title: "Blog Post Page"
 ---
