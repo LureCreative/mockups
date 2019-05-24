@@ -1,8 +1,11 @@
 ---
-title: "Mobile"
+title: "Blog Template Mobile"
 layout: mobile
 mockups:
   -
-    image: "mobile-1.jpg"
-    title: "Home Page"
+    image: "mobile-main-blog-page.jpg"
+    title: "Main Blog Page"
+  -
+    image: "mobile-blog-post-page.jpg"
+    title: "Blog Post Page"
 ---
