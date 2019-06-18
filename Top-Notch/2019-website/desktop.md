@@ -1,10 +1,9 @@
 ---
 title: "Desktop"
 layout: desktop
-showMobileLink: false
 mockups:
   -
-    image: "Top-Notch-Wireframe.jpg"
+    image: "Top-Notch-Wireframe-v2.jpg"
     title: "Wireframe"
   -
 ---
