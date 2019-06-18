@@ -1,9 +1,10 @@
 ---
 title: "Desktop"
 layout: desktop
+showMobileLink: false
 mockups:
   -
-    image: "Git Hub Folder.jpg"
+    image: "Top-Notch-Wireframe.jpg"
     title: "Wireframe"
   -
 ---
