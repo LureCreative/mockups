@@ -1,11 +1,8 @@
 ---
-title: "Desktop"
+title: "Rise Display: Wireframes"
 layout: desktop
 mockups:
   -
-    image: "dekstop-1.jpg"
+    image: "rise-display-redesign2019-wireframes.jpg"
     title: "Home Page"
-  -
-    image: "dekstop-2.jpg"
-    title: "Home Page 2"
 ---
