@@ -3,6 +3,6 @@ title: "Mobile"
 layout: mobile
 mockups:
   -
-    image: "mobile-1.jpg"
-    title: "Home Page"
+    image: "Lure-website-wireframe-mobile-home.jpg"
+    title: "Home Page - Mobile"
 ---
