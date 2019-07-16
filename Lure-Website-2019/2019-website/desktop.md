@@ -3,9 +3,18 @@ title: "Desktop"
 layout: desktop
 mockups:
   -
-    image: "dekstop-1.jpg"
+    image: "Lure-website-wireframe-home.jpg"
     title: "Home Page"
   -
-    image: "dekstop-2.jpg"
-    title: "Home Page 2"
+    image: "Lure-website-wireframe-home-menu.jpg"
+    title: "Home Page - Expanded Menu"
+  -
+    image: "Lure-website-wireframe-case-study.jpg"
+    title: "Case Study"
+  -
+    image: "Lure-website-wireframe-services.jpg"
+    title: "Services"
+  -
+    image: "Lure-website-wireframe-team.jpg"
+    title: "Team"
 ---
