@@ -1,7 +1,6 @@
 ---
 title: "Desktop"
 layout: desktop
-showMobileLink: false
 mockups:
   -
     image: "Top-Notch-desktop-home-v2-2.jpg"
