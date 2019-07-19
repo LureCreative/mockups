@@ -4,10 +4,10 @@ layout: desktop
 showMobileLink: false
 mockups:
   -
-    image: "rise-display-wireframes-home_v4.jpg"
+    image: "rise-display-redesign2019-wireframes_v4.jpg"
     title: "Home Page"
   -
-    image: "rise-display-wireframes-home_mm_v4.jpg"
+    image: "rise-display-redesign2019-wireframes_v4-mm.jpg"
     title: "Home Page - Expanded Mega Menu"
   -
     image: "rise-display-wireframes-market_v3.jpg"
