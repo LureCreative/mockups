@@ -3,9 +3,12 @@ title: "Desktop"
 layout: desktop
 mockups:
   -
-    image: "dekstop-1.jpg"
-    title: "Home Page"
+    image: "retirement-80.jpg"
+    title: "Retirement"
   -
-    image: "dekstop-2.jpg"
-    title: "Home Page 2"
+    image: "retirement-tax-80.jpg"
+    title: "Retirement and Tax"
+  -
+    image: "empower-women-80.jpg"
+    title: "Empowering Women"
 ---
