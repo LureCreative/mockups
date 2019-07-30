@@ -12,6 +12,6 @@ mockups:
     image: "Lure2019-mobile-home-2-expanded-menu-part-2.jpg"
     title: "Home Page - Expanded Menu Part 2"
   -
-    image: "Lure2019-mobile-home-services.jpg"
+    image: "Lure2019-mobile-services.jpg"
     title: "Services"
 ---
