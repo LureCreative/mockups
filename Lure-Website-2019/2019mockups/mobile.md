@@ -18,6 +18,6 @@ mockups:
     image: "Lure2019-mobile-team.jpg"
     title: "Team"
   -
-    image: "Lure2019-mobile-case-study-2.jpg"
+    image: "Lure2019-mobile-case-study-3.jpg"
     title: "Case Study"
 ---
