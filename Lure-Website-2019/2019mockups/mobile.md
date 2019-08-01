@@ -9,7 +9,7 @@ mockups:
     image: "Lure2019-mobile-home-3-expanded-menu-part-1.jpg"
     title: "Home Page - Expanded Menu Part 1"
   -
-    image: "Lure2019-mobile-home-3-expanded-menu-part-2.jpg"
+    image: "Lure2019-mobile-home-3expanded-menu-part-2.jpg"
     title: "Home Page - Expanded Menu Part 2"
   -
     image: "Lure2019-mobile-services-2.jpg"
