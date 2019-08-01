@@ -3,21 +3,21 @@ title: "Mobile"
 layout: mobile
 mockups:
   -
-    image: "Lure2019-mobile-home-2.jpg"
+    image: "Lure2019-mobile-home-3.jpg"
     title: "Home Page"
   -
-    image: "Lure2019-mobile-home-2-expanded-menu-part-1-2.jpg"
+    image: "Lure2019-mobile-home-3-expanded-menu-part-1.jpg"
     title: "Home Page - Expanded Menu Part 1"
   -
-    image: "Lure2019-mobile-home-2-expanded-menu-part-2.jpg"
+    image: "Lure2019-mobile-home-3-expanded-menu-part-2.jpg"
     title: "Home Page - Expanded Menu Part 2"
   -
-    image: "Lure2019-mobile-services.jpg"
+    image: "Lure2019-mobile-services-2.jpg"
     title: "Services"
   -
-    image: "Lure2019-mobile-team.jpg"
+    image: "Lure2019-mobile-team-2.jpg"
     title: "Team"
   -
-    image: "Lure2019-mobile-case-study-3.jpg"
+    image: "Lure2019-mobile-case-study-4.jpg"
     title: "Case Study"
 ---
