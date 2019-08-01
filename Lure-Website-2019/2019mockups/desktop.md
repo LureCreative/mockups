@@ -12,12 +12,12 @@ mockups:
     image: "Lure2019-home-desktop_v1-3-expanded-menu-part-2.jpg"
     title: "Home Page - Expanded Menu Part 2"
   -
-    image: "Lure2019-services-2.jpg"
+    image: "Lure2019-services-3.jpg"
     title: "Services"
   -
     image: "Lure2019-team-2.jpg"
     title: "Team"
   -
-    image: "Lure2019-case-study-2.jpg"
+    image: "Lure2019-case-study-3.jpg"
     title: "Case Study"
 ---
