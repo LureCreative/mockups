@@ -15,7 +15,7 @@ mockups:
     image: "Lure2019-services-3.jpg"
     title: "Services"
   -
-    image: "Lure2019-team-2.jpg"
+    image: "Lure2019-team-desktop-FINAL.jpg"
     title: "Team"
   -
     image: "Lure2019-case-study-3.jpg"
