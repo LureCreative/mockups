@@ -15,9 +15,12 @@ mockups:
     image: "Lure2019-mobile-services-2.jpg"
     title: "Services"
   -
-    image: "Lure2019-mobile-team-2.jpg"
+    image: "Lure2019-mobile-team-FINAL.jpg"
     title: "Team"
   -
-    image: "Lure2019-mobile-case-study-4.jpg"
+    image: "Lure2019-mobile-case-study-FINAL.jpg"
     title: "Case Study"
+  -
+    image: "Lure2019-mobile-interior-FINAL.jpg"
+    title: "Interior Service page"
 ---
