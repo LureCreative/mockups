@@ -20,4 +20,7 @@ mockups:
   -
     image: "Lure2019-case-study-3.jpg"
     title: "Case Study"
+  -
+    image: "Lure2019-interior-desktop-FINAL.jpg"
+    title: "Interior Service page"
 ---
