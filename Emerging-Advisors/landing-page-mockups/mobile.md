@@ -3,6 +3,6 @@ title: "Mobile"
 layout: mobile
 mockups:
   -
-    image: "mobile-1.jpg"
-    title: "Home Page"
+    image: "EA-retirement-mobile_v1.jpg"
+    title: "Retirement LP"
 ---
