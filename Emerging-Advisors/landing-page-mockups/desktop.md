@@ -3,7 +3,7 @@ title: "Desktop"
 layout: desktop
 mockups:
   -
-    image: "EA-retirement-desktop_v1.jpg"
+    image: "EA-retirement-desktop_v1B.jpg"
     title: "Retirement"
   -
     image: "EA-retirement-tax-desktop_v1.jpg"
