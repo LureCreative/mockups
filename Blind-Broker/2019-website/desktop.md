@@ -4,7 +4,7 @@ layout: desktop
 
 mockups:
   -
-    image: "blind-broker-desktop-v2-3.jpg"
+    image: "blind-broker-desktop-v2-4.jpg"
     title: "Home Page"
   -
     image: "blind-broker-interior.jpg"
