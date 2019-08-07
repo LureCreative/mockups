@@ -3,7 +3,7 @@ title: "Mobile"
 layout: mobile
 mockups:
   -
-    image: "Blind-Broker-mobile-home.jpg"
+    image: "Blind-Broker-mobile-home-2.jpg"
     title: "Mobile - Home Page"
   -
     image: "Blind-Broker-mobile-home-expanded-menu-1.jpg"
