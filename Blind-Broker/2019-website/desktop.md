@@ -10,6 +10,6 @@ mockups:
     image: "blind-broker-interior-v2-showroom-hero-2.jpg"
     title: "Interior - Option 1"
   -
-    image: "blind-broker-interior-v2-showroom-sidebar-2.jpg"
+    image: "blind-broker-interior-v2-showroom-sidebar-3.jpg"
     title: "Interior - Option 2"
 ---
