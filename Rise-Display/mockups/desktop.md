@@ -14,4 +14,7 @@ mockups:
   -
     image: "Rise-Display-university-desktop_v1.jpg"
     title: "Universities Page"
+  -
+    image: "Rise-Display-generic-desktop_v1.jpg"
+    title: "Generic Layout"
 ---
