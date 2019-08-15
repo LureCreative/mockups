@@ -7,7 +7,7 @@ mockups:
     title: "Home Page"
   -
     image: "Rise-Display-home-mobile-expanded-nav_v1.jpg"
-    title: "Home Page - Expanded Menu"
+    title: "Home Page Expanded Menu"
   -
     image: "Rise-Display-home-mobile-expanded-why_v1.jpg"
     title: "Home Page - Expanded Why Rise?"
