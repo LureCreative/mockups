@@ -3,7 +3,7 @@ title: "Desktop"
 layout: desktop
 mockups:
   -
-    image: "Rise-Display-home-desktop_v5.jpg"
+    image: "Rise-Display-home-desktop_v6.jpg"
     title: "Home Page"
   -
     image: "Rise-Display-home-desktop-expanded-why_v5.jpg"
