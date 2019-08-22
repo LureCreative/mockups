@@ -12,7 +12,7 @@ mockups:
     image: "Rise-Display-industry-desktop_v1.jpg"
     title: "Industry Page"
   -
-    image: "Rise-Display-university-desktop_v1.jpg"
+    image: "Rise-Display-university-desktop_v2.jpg"
     title: "Universities Page"
   -
     image: "Rise-Display-generic-desktop_v1.jpg"
