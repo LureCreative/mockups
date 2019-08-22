@@ -14,7 +14,7 @@ mockups:
     title: "Modular Towers"
   -
     image: "WHP-Wireframes-tower.jpg"
-    title: "Tower Page"
+    title: "Tower Subpage"
   -
     image: "WHP-Wireframes-map.jpg"
     title: "Map"
