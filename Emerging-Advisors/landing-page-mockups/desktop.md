@@ -12,7 +12,7 @@ mockups:
     image: "EA-retirement-tax-desktop_v1.jpg"
     title: "Taxes"
   -
-    image: "EA-empower-women-desktop_v1.jpg"
+    image: "EA-empower-women-desktop_FINAL.jpg"
     title: "Empowering Women"
   -
     image: "EA-typ-desktop_v1B.jpg"
