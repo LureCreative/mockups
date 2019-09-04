@@ -9,7 +9,7 @@ mockups:
     image: "EA-retirement-desktop_v3-step2.jpg"
     title: "Retirement - Form Step 2"
   -
-    image: "EA-retirement-tax-desktop_v1.jpg"
+    image: "EA-retirement-tax-desktop_FINAL.jpg"
     title: "Taxes"
   -
     image: "EA-empower-women-desktop_FINAL.jpg"
