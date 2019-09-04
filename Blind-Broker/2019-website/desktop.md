@@ -4,12 +4,10 @@ layout: desktop
 
 mockups:
   -
-    image: "blind-broker-desktop-v2-4.jpg"
+    image: "blind-broker-home-desktop_FINAL.jpg"
     title: "Home Page"
   -
-    image: "blind-broker-interior-v2-showroom-hero-2.jpg"
-    title: "Interior - Option 1"
-  -
-    image: "blind-broker-interior-v2-showroom-sidebar-4.jpg"
-    title: "Interior - Option 2"
+    image: "blind-broker-interior_FINAL.jpg"
+    title: "Interior Page"
+
 ---
