@@ -3,10 +3,10 @@ title: "Mobile"
 layout: mobile
 mockups:
   -
-    image: "Rise-Display-home-mobile_v3-edit.jpg"
+    image: "Rise-Display-home-mobile_FINAL.jpg"
     title: "Home Page"
   -
-    image: "Rise-Display-home-mobile-expanded-nav_v3-edit.jpg"
+    image: "Rise-Display-home-mobile-expanded-menu_FINAL.jpg"
     title: "Home Page Expanded Menu"
   -
     image: "Rise-Display-home-mobile-expanded-why-rise_v3-edit.jpg"
