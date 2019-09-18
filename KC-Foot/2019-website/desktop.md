@@ -4,12 +4,9 @@ layout: desktop
 showMobileLink: false
 mockups:
   -
-    image: "KC-foot-desktop-home_v6.jpg"
-    title: "Home Page - Hero Option 1"
+    image: "KC-foot-desktop-home_FINAL.jpg"
+    title: "Home Page"
   -
-    image: "KC-foot-desktop-home_v5B.jpg"
-    title: "Home Page - Hero Option 2"
-  -
-    image: "KC-foot-desktop-home_v5C.jpg"
-    title: "Home Page - Hero Option 3"
+    image: "KC-foot-desktop-interior.jpg"
+    title: "Interior - Sports Injuries"
 ---
