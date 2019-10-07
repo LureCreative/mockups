@@ -14,4 +14,10 @@ mockups:
   -
     image: "WHP-mobile-menu3.jpg"
     title: "Home Page - Expanded Menu Part 3"
+  -
+    image: "WHP-mobile-map-details-crop.jpg"
+    title: "Home Page - Map - Details"
+  -
+    image: "WHP-mobile-map-features-crop.jpg"
+    title: "Home Page - Map - Features"
 ---
