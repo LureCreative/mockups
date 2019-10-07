@@ -3,6 +3,15 @@ title: "Mobile"
 layout: mobile
 mockups:
   -
-    image: "mobile-1.jpg"
+    image: "WHP-mobile-home.jpg"
     title: "Home Page"
+  -
+    image: "WHP-mobile-menu1.jpg"
+    title: "Home Page - Expanded Menu Part 1"
+  -
+    image: "WHP-mobile-menu2.jpg"
+    title: "Home Page - Expanded Menu Part 2"
+  -
+    image: "WHP-mobile-menu3.jpg"
+    title: "Home Page - Expanded Menu Part 3"
 ---
