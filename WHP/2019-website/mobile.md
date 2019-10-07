@@ -12,7 +12,7 @@ mockups:
     image: "WHP-mobile-home-menu2.jpg"
     title: "Home Page - Expanded Menu Part 2"
   -
-    image: "WHP-mobile-home-menu3.jpg"
+    image: "WHP-mobile-home-menu-3.jpg"
     title: "Home Page - Expanded Menu Part 3"
   -
     image: "WHP-mobile-home-map-details-crop.jpg"
