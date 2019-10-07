@@ -1,7 +1,7 @@
 ---
 title: "Desktop"
 layout: desktop
-showMobileLink: false
+
 mockups:
   -
     image: "WHP-desktop-home-v2-2.jpg"
