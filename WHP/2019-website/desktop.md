@@ -16,10 +16,10 @@ mockups:
     image: "WHP-desktop-home-map-3.jpg"
     title: "Home Page - Map Lightbox"
   -
-    image: "WHP-desktop-modular-tower-2.jpg"
+    image: "WHP-desktop-modular-tower-3.jpg"
     title: "Modular Tower Main Page"
   -
-    image: "WHP-desktop-fixed-tower-3.jpg"
+    image: "WHP-desktop-fixed-tower-4.jpg"
     title: "Fixed Tower Main Page"
   -
     image: "WHP-desktop-fixed-tower-subpage-2.jpg"
