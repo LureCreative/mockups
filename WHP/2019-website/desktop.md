@@ -12,7 +12,7 @@ mockups:
   -
     image: "WHP-desktop-home-v3-burn-rooms.jpg"
     title: "Home Page - Expanded Menu (Burn Rooms)"
--
+  -
     image: "WHP-desktop-home-v3-accessories.jpg"
     title: "Home Page - Expanded Menu (Accessories)"
   -
