@@ -1,6 +1,7 @@
 ---
-title: "Desktop"
+title: "Associated Audiologists LPs Desktop"
 layout: desktop
+showMobileLink: false
 mockups:
   -
     image: "AA-simple-lp.jpg"
