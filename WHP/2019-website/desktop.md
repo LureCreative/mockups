@@ -4,27 +4,27 @@ layout: desktop
 
 mockups:
   -
-    image: "WHP-desktop-home-v3.jpg"
+    image: "WHP-desktop-home-FINAL.jpg"
     title: "Home Page"
   -
-    image: "WHP-desktop-home-v3-fixed-towers.jpg"
+    image: "WHP-desktop-home-FINAL-fixed-towers.jpg"
     title: "Home Page - Expanded Menu (Fixed Towers)"
   -
-    image: "WHP-desktop-home-v3-burn-rooms.jpg"
+    image: "WHP-desktop-home-FINAL-burn-rooms.jpg"
     title: "Home Page - Expanded Menu (Burn Rooms)"
   -
-    image: "WHP-desktop-home-v3-accessories.jpg"
+    image: "WHP-desktop-home-FINAL-accessories.jpg"
     title: "Home Page - Expanded Menu (Accessories)"
   -
-    image: "WHP-desktop-home-map-3.jpg"
+    image: "WHP-desktop-home-FINAL-map.jpg"
     title: "Home Page - Map Lightbox"
   -
-    image: "WHP-desktop-modular-tower-v2.jpg"
+    image: "WHP-desktop-modular-tower-FINAL.jpg"
     title: "Modular Tower Main Page"
   -
-    image: "WHP-desktop-fixed-tower-v2.jpg"
+    image: "WHP-desktop-fixed-tower-FINAL.jpg"
     title: "Fixed Tower Main Page"
   -
-    image: "WHP-desktop-fixed-tower-subpage-v2.jpg"
+    image: "WHP-desktop-fixed-tower-subpage-FINAL.jpg"
     title: "Fixed Tower Subpage"
 ---
