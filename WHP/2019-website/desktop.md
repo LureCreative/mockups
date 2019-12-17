@@ -10,11 +10,17 @@ mockups:
     image: "WHP-desktop-home-FINAL-fixed-towers.jpg"
     title: "Home Page - Expanded Menu (Fixed Towers)"
   -
+    image: "WHP-desktop-home-FINAL-modx-towers.jpg"
+    title: "Home Page - Expanded Menu (Modular Towers)"
+  -
     image: "WHP-desktop-home-FINAL-burn-rooms.jpg"
     title: "Home Page - Expanded Menu (Burn Rooms)"
   -
     image: "WHP-desktop-home-FINAL-accessories.jpg"
     title: "Home Page - Expanded Menu (Accessories)"
+  -
+    image: "WHP-desktop-home-FINAL-quiz-results.jpg"
+    title: "Home Page - Quiz Results"
   -
     image: "WHP-desktop-home-FINAL-map.jpg"
     title: "Home Page - Map Lightbox"
