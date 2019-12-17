@@ -16,7 +16,7 @@ mockups:
     image: "WHP-desktop-home-FINAL-burn-rooms.jpg"
     title: "Home Page - Expanded Menu (Burn Rooms)"
   -
-    image: "WHP-desktop-home-FINAL-accessories.jpg"
+    image: "WHP-desktop-home-FINAL-accesories.jpg"
     title: "Home Page - Expanded Menu (Accessories)"
   -
     image: "WHP-desktop-home-FINAL-quiz-results.jpg"
